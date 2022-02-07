@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NavneetSng
+- 👋 Hi, I’m Navneet Singh
 - 🌱 Android studio
 - 💞️ I’m looking to collaborate on Java, HTML, CSS and javascript projects.
 - 📫 navnxs@outlook.com
